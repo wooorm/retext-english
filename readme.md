@@ -30,7 +30,7 @@ retext().use(english).process('There, ol’ pal', function (err, file) {});
 
 Nothing else is needed. This will add better support for the English language
 to retext. A complete list of what is added is available on
-[**parse-english**](https://github.com/wooorm/english#api) README.
+[**parse-english**](https://github.com/wooorm/parse-english#api) README.
 
 **Parameters**
 
